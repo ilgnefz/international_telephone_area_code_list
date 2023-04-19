@@ -1,0 +1,1442 @@
+[
+  {
+    "name": "Afghanistan",
+    "area_code": "AF",
+    "phone_code": "+93",
+    "native": "افغانستان"
+  },
+  {
+    "name": "Aland Islands",
+    "area_code": "AX",
+    "phone_code": "+358-18",
+    "native": "Åland"
+  },
+  {
+    "name": "Albania",
+    "area_code": "AL",
+    "phone_code": "+355",
+    "native": "Shqipëria"
+  },
+  {
+    "name": "Algeria",
+    "area_code": "DZ",
+    "phone_code": "+213",
+    "native": "الجزائر"
+  },
+  {
+    "name": "American Samoa",
+    "area_code": "AS",
+    "phone_code": "+1-684",
+    "native": "American Samoa"
+  },
+  {
+    "name": "Andorra",
+    "area_code": "AD",
+    "phone_code": "+376",
+    "native": "Andorra"
+  },
+  {
+    "name": "Angola",
+    "area_code": "AO",
+    "phone_code": "+244",
+    "native": "Angola"
+  },
+  {
+    "name": "Anguilla",
+    "area_code": "AI",
+    "phone_code": "+1-264",
+    "native": "Anguilla"
+  },
+  {
+    "name": "Antarctica",
+    "area_code": "AQ",
+    "phone_code": "+672",
+    "native": "Antarctica"
+  },
+  {
+    "name": "Antigua And Barbuda",
+    "area_code": "AG",
+    "phone_code": "+1-268",
+    "native": "Antigua and Barbuda"
+  },
+  {
+    "name": "Argentina",
+    "area_code": "AR",
+    "phone_code": "+54",
+    "native": "Argentina"
+  },
+  {
+    "name": "Armenia",
+    "area_code": "AM",
+    "phone_code": "+374",
+    "native": "Հայաստան"
+  },
+  {
+    "name": "Aruba",
+    "area_code": "AW",
+    "phone_code": "+297",
+    "native": "Aruba"
+  },
+  {
+    "name": "Australia",
+    "area_code": "AU",
+    "phone_code": "+61",
+    "native": "Australia"
+  },
+  {
+    "name": "Austria",
+    "area_code": "AT",
+    "phone_code": "+43",
+    "native": "Österreich"
+  },
+  {
+    "name": "Azerbaijan",
+    "area_code": "AZ",
+    "phone_code": "+994",
+    "native": "Azərbaycan"
+  },
+  {
+    "name": "Bahrain",
+    "area_code": "BH",
+    "phone_code": "+973",
+    "native": "‏البحرين"
+  },
+  {
+    "name": "Bangladesh",
+    "area_code": "BD",
+    "phone_code": "+880",
+    "native": "Bangladesh"
+  },
+  {
+    "name": "Barbados",
+    "area_code": "BB",
+    "phone_code": "+1-246",
+    "native": "Barbados"
+  },
+  {
+    "name": "Belarus",
+    "area_code": "BY",
+    "phone_code": "+375",
+    "native": "Белару́сь"
+  },
+  {
+    "name": "Belgium",
+    "area_code": "BE",
+    "phone_code": "+32",
+    "native": "België"
+  },
+  {
+    "name": "Belize",
+    "area_code": "BZ",
+    "phone_code": "+501",
+    "native": "Belize"
+  },
+  {
+    "name": "Benin",
+    "area_code": "BJ",
+    "phone_code": "+229",
+    "native": "Bénin"
+  },
+  {
+    "name": "Bermuda",
+    "area_code": "BM",
+    "phone_code": "+1-441",
+    "native": "Bermuda"
+  },
+  {
+    "name": "Bhutan",
+    "area_code": "BT",
+    "phone_code": "+975",
+    "native": "ʼbrug-yul"
+  },
+  {
+    "name": "Bolivia",
+    "area_code": "BO",
+    "phone_code": "+591",
+    "native": "Bolivia"
+  },
+  {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "area_code": "BQ",
+    "phone_code": "+599",
+    "native": "Caribisch Nederland"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "area_code": "BA",
+    "phone_code": "+387",
+    "native": "Bosna i Hercegovina"
+  },
+  {
+    "name": "Botswana",
+    "area_code": "BW",
+    "phone_code": "+267",
+    "native": "Botswana"
+  },
+  {
+    "name": "Bouvet Island",
+    "area_code": "BV",
+    "phone_code": "+0055",
+    "native": "Bouvetøya"
+  },
+  {
+    "name": "Brazil",
+    "area_code": "BR",
+    "phone_code": "+55",
+    "native": "Brasil"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "area_code": "IO",
+    "phone_code": "+246",
+    "native": "British Indian Ocean Territory"
+  },
+  {
+    "name": "Brunei",
+    "area_code": "BN",
+    "phone_code": "+673",
+    "native": "Negara Brunei Darussalam"
+  },
+  {
+    "name": "Bulgaria",
+    "area_code": "BG",
+    "phone_code": "+359",
+    "native": "България"
+  },
+  {
+    "name": "Burkina Faso",
+    "area_code": "BF",
+    "phone_code": "+226",
+    "native": "Burkina Faso"
+  },
+  {
+    "name": "Burundi",
+    "area_code": "BI",
+    "phone_code": "+257",
+    "native": "Burundi"
+  },
+  {
+    "name": "Cambodia",
+    "area_code": "KH",
+    "phone_code": "+855",
+    "native": "Kâmpŭchéa"
+  },
+  {
+    "name": "Cameroon",
+    "area_code": "CM",
+    "phone_code": "+237",
+    "native": "Cameroon"
+  },
+  {
+    "name": "Canada",
+    "area_code": "CA",
+    "phone_code": "+1",
+    "native": "Canada"
+  },
+  {
+    "name": "Cape Verde",
+    "area_code": "CV",
+    "phone_code": "+238",
+    "native": "Cabo Verde"
+  },
+  {
+    "name": "Cayman Islands",
+    "area_code": "KY",
+    "phone_code": "+1-345",
+    "native": "Cayman Islands"
+  },
+  {
+    "name": "Central African Republic",
+    "area_code": "CF",
+    "phone_code": "+236",
+    "native": "Ködörösêse tî Bêafrîka"
+  },
+  {
+    "name": "Chad",
+    "area_code": "TD",
+    "phone_code": "+235",
+    "native": "Tchad"
+  },
+  {
+    "name": "Chile",
+    "area_code": "CL",
+    "phone_code": "+56",
+    "native": "Chile"
+  },
+  {
+    "name": "China",
+    "area_code": "CN",
+    "phone_code": "+86",
+    "native": "中国大陆"
+  },
+  {
+    "name": "Christmas Island",
+    "area_code": "CX",
+    "phone_code": "+61",
+    "native": "Christmas Island"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "area_code": "CC",
+    "phone_code": "+61",
+    "native": "Cocos (Keeling) Islands"
+  },
+  {
+    "name": "Colombia",
+    "area_code": "CO",
+    "phone_code": "+57",
+    "native": "Colombia"
+  },
+  {
+    "name": "Comoros",
+    "area_code": "KM",
+    "phone_code": "+269",
+    "native": "Komori"
+  },
+  {
+    "name": "Congo",
+    "area_code": "CG",
+    "phone_code": "+242",
+    "native": "République du Congo"
+  },
+  {
+    "name": "Cook Islands",
+    "area_code": "CK",
+    "phone_code": "+682",
+    "native": "Cook Islands"
+  },
+  {
+    "name": "Costa Rica",
+    "area_code": "CR",
+    "phone_code": "+506",
+    "native": "Costa Rica"
+  },
+  {
+    "name": "Cote D'Ivoire (Ivory Coast)",
+    "area_code": "CI",
+    "phone_code": "+225",
+    "native": "Cote D'Ivoire (Ivory Coast)"
+  },
+  {
+    "name": "Croatia",
+    "area_code": "HR",
+    "phone_code": "+385",
+    "native": "Hrvatska"
+  },
+  { "name": "Cuba", "area_code": "CU", "phone_code": "+53", "native": "Cuba" },
+  {
+    "name": "Curaçao",
+    "area_code": "CW",
+    "phone_code": "+599",
+    "native": "Curaçao"
+  },
+  {
+    "name": "Cyprus",
+    "area_code": "CY",
+    "phone_code": "+357",
+    "native": "Κύπρος"
+  },
+  {
+    "name": "Czech Republic",
+    "area_code": "CZ",
+    "phone_code": "+420",
+    "native": "Česká republika"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "area_code": "CD",
+    "phone_code": "+243",
+    "native": "République démocratique du Congo"
+  },
+  {
+    "name": "Denmark",
+    "area_code": "DK",
+    "phone_code": "+45",
+    "native": "Danmark"
+  },
+  {
+    "name": "Djibouti",
+    "area_code": "DJ",
+    "phone_code": "+253",
+    "native": "Djibouti"
+  },
+  {
+    "name": "Dominica",
+    "area_code": "DM",
+    "phone_code": "+1-767",
+    "native": "Dominica"
+  },
+  {
+    "name": "Dominican Republic",
+    "area_code": "DO",
+    "phone_code": "+1-809 and 1-829",
+    "native": "República Dominicana"
+  },
+  {
+    "name": "East Timor",
+    "area_code": "TL",
+    "phone_code": "+670",
+    "native": "Timor-Leste"
+  },
+  {
+    "name": "Ecuador",
+    "area_code": "EC",
+    "phone_code": "+593",
+    "native": "Ecuador"
+  },
+  { "name": "Egypt", "area_code": "EG", "phone_code": "+20", "native": "مصر‎" },
+  {
+    "name": "El Salvador",
+    "area_code": "SV",
+    "phone_code": "+503",
+    "native": "El Salvador"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "area_code": "GQ",
+    "phone_code": "+240",
+    "native": "Guinea Ecuatorial"
+  },
+  {
+    "name": "Eritrea",
+    "area_code": "ER",
+    "phone_code": "+291",
+    "native": "ኤርትራ"
+  },
+  {
+    "name": "Estonia",
+    "area_code": "EE",
+    "phone_code": "+372",
+    "native": "Eesti"
+  },
+  {
+    "name": "Ethiopia",
+    "area_code": "ET",
+    "phone_code": "+251",
+    "native": "ኢትዮጵያ"
+  },
+  {
+    "name": "Falkland Islands",
+    "area_code": "FK",
+    "phone_code": "+500",
+    "native": "Falkland Islands"
+  },
+  {
+    "name": "Faroe Islands",
+    "area_code": "FO",
+    "phone_code": "+298",
+    "native": "Føroyar"
+  },
+  {
+    "name": "Fiji Islands",
+    "area_code": "FJ",
+    "phone_code": "+679",
+    "native": "Fiji"
+  },
+  {
+    "name": "Finland",
+    "area_code": "FI",
+    "phone_code": "+358",
+    "native": "Suomi"
+  },
+  {
+    "name": "France",
+    "area_code": "FR",
+    "phone_code": "+33",
+    "native": "France"
+  },
+  {
+    "name": "French Guiana",
+    "area_code": "GF",
+    "phone_code": "+594",
+    "native": "Guyane française"
+  },
+  {
+    "name": "French Polynesia",
+    "area_code": "PF",
+    "phone_code": "+689",
+    "native": "Polynésie française"
+  },
+  {
+    "name": "French Southern Territories",
+    "area_code": "TF",
+    "phone_code": "+262",
+    "native": "Territoire des Terres australes et antarctiques fr"
+  },
+  {
+    "name": "Gabon",
+    "area_code": "GA",
+    "phone_code": "+241",
+    "native": "Gabon"
+  },
+  {
+    "name": "Gambia The",
+    "area_code": "GM",
+    "phone_code": "+220",
+    "native": "Gambia"
+  },
+  {
+    "name": "Georgia",
+    "area_code": "GE",
+    "phone_code": "+995",
+    "native": "საქართველო"
+  },
+  {
+    "name": "Germany",
+    "area_code": "DE",
+    "phone_code": "+49",
+    "native": "Deutschland"
+  },
+  {
+    "name": "Ghana",
+    "area_code": "GH",
+    "phone_code": "+233",
+    "native": "Ghana"
+  },
+  {
+    "name": "Gibraltar",
+    "area_code": "GI",
+    "phone_code": "+350",
+    "native": "Gibraltar"
+  },
+  {
+    "name": "Greece",
+    "area_code": "GR",
+    "phone_code": "+30",
+    "native": "Ελλάδα"
+  },
+  {
+    "name": "Greenland",
+    "area_code": "GL",
+    "phone_code": "+299",
+    "native": "Kalaallit Nunaat"
+  },
+  {
+    "name": "Grenada",
+    "area_code": "GD",
+    "phone_code": "+1-473",
+    "native": "Grenada"
+  },
+  {
+    "name": "Guadeloupe",
+    "area_code": "GP",
+    "phone_code": "+590",
+    "native": "Guadeloupe"
+  },
+  {
+    "name": "Guam",
+    "area_code": "GU",
+    "phone_code": "+1-671",
+    "native": "Guam"
+  },
+  {
+    "name": "Guatemala",
+    "area_code": "GT",
+    "phone_code": "+502",
+    "native": "Guatemala"
+  },
+  {
+    "name": "Guernsey and Alderney",
+    "area_code": "GG",
+    "phone_code": "+44-1481",
+    "native": "Guernsey"
+  },
+  {
+    "name": "Guinea",
+    "area_code": "GN",
+    "phone_code": "+224",
+    "native": "Guinée"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "area_code": "GW",
+    "phone_code": "+245",
+    "native": "Guiné-Bissau"
+  },
+  {
+    "name": "Guyana",
+    "area_code": "GY",
+    "phone_code": "+592",
+    "native": "Guyana"
+  },
+  {
+    "name": "Haiti",
+    "area_code": "HT",
+    "phone_code": "+509",
+    "native": "Haïti"
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "area_code": "HM",
+    "phone_code": "+672",
+    "native": "Heard Island and McDonald Islands"
+  },
+  {
+    "name": "Honduras",
+    "area_code": "HN",
+    "phone_code": "+504",
+    "native": "Honduras"
+  },
+  {
+    "name": "Hong Kong S.A.R.",
+    "area_code": "HK",
+    "phone_code": "+852",
+    "native": "中國香港"
+  },
+  {
+    "name": "Hungary",
+    "area_code": "HU",
+    "phone_code": "+36",
+    "native": "Magyarország"
+  },
+  {
+    "name": "Iceland",
+    "area_code": "IS",
+    "phone_code": "+354",
+    "native": "Ísland"
+  },
+  { "name": "India", "area_code": "IN", "phone_code": "+91", "native": "भारत" },
+  {
+    "name": "Indonesia",
+    "area_code": "ID",
+    "phone_code": "+62",
+    "native": "Indonesia"
+  },
+  { "name": "Iran", "area_code": "IR", "phone_code": "+98", "native": "ایران" },
+  {
+    "name": "Iraq",
+    "area_code": "IQ",
+    "phone_code": "+964",
+    "native": "العراق"
+  },
+  {
+    "name": "Ireland",
+    "area_code": "IE",
+    "phone_code": "+353",
+    "native": "Éire"
+  },
+  {
+    "name": "Israel",
+    "area_code": "IL",
+    "phone_code": "+972",
+    "native": "יִשְׂרָאֵל"
+  },
+  {
+    "name": "Italy",
+    "area_code": "IT",
+    "phone_code": "+39",
+    "native": "Italia"
+  },
+  {
+    "name": "Jamaica",
+    "area_code": "JM",
+    "phone_code": "+1-876",
+    "native": "Jamaica"
+  },
+  { "name": "Japan", "area_code": "JP", "phone_code": "+81", "native": "日本" },
+  {
+    "name": "Jersey",
+    "area_code": "JE",
+    "phone_code": "+44-1534",
+    "native": "Jersey"
+  },
+  {
+    "name": "Jordan",
+    "area_code": "JO",
+    "phone_code": "+962",
+    "native": "الأردن"
+  },
+  {
+    "name": "Kazakhstan",
+    "area_code": "KZ",
+    "phone_code": "+7",
+    "native": "Қазақстан"
+  },
+  {
+    "name": "Kenya",
+    "area_code": "KE",
+    "phone_code": "+254",
+    "native": "Kenya"
+  },
+  {
+    "name": "Kiribati",
+    "area_code": "KI",
+    "phone_code": "+686",
+    "native": "Kiribati"
+  },
+  {
+    "name": "Kosovo",
+    "area_code": "XK",
+    "phone_code": "+383",
+    "native": "Republika e Kosovës"
+  },
+  {
+    "name": "Kuwait",
+    "area_code": "KW",
+    "phone_code": "+965",
+    "native": "الكويت"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "area_code": "KG",
+    "phone_code": "+996",
+    "native": "Кыргызстан"
+  },
+  {
+    "name": "Laos",
+    "area_code": "LA",
+    "phone_code": "+856",
+    "native": "ສປປລາວ"
+  },
+  {
+    "name": "Latvia",
+    "area_code": "LV",
+    "phone_code": "+371",
+    "native": "Latvija"
+  },
+  {
+    "name": "Lebanon",
+    "area_code": "LB",
+    "phone_code": "+961",
+    "native": "لبنان"
+  },
+  {
+    "name": "Lesotho",
+    "area_code": "LS",
+    "phone_code": "+266",
+    "native": "Lesotho"
+  },
+  {
+    "name": "Liberia",
+    "area_code": "LR",
+    "phone_code": "+231",
+    "native": "Liberia"
+  },
+  {
+    "name": "Libya",
+    "area_code": "LY",
+    "phone_code": "+218",
+    "native": "‏ليبيا"
+  },
+  {
+    "name": "Liechtenstein",
+    "area_code": "LI",
+    "phone_code": "+423",
+    "native": "Liechtenstein"
+  },
+  {
+    "name": "Lithuania",
+    "area_code": "LT",
+    "phone_code": "+370",
+    "native": "Lietuva"
+  },
+  {
+    "name": "Luxembourg",
+    "area_code": "LU",
+    "phone_code": "+352",
+    "native": "Luxembourg"
+  },
+  {
+    "name": "Macau S.A.R.",
+    "area_code": "MO",
+    "phone_code": "+853",
+    "native": "中國澳門"
+  },
+  {
+    "name": "Madagascar",
+    "area_code": "MG",
+    "phone_code": "+261",
+    "native": "Madagasikara"
+  },
+  {
+    "name": "Malawi",
+    "area_code": "MW",
+    "phone_code": "+265",
+    "native": "Malawi"
+  },
+  {
+    "name": "Malaysia",
+    "area_code": "MY",
+    "phone_code": "+60",
+    "native": "Malaysia"
+  },
+  {
+    "name": "Maldives",
+    "area_code": "MV",
+    "phone_code": "+960",
+    "native": "Maldives"
+  },
+  { "name": "Mali", "area_code": "ML", "phone_code": "+223", "native": "Mali" },
+  {
+    "name": "Malta",
+    "area_code": "MT",
+    "phone_code": "+356",
+    "native": "Malta"
+  },
+  {
+    "name": "Man (Isle of)",
+    "area_code": "IM",
+    "phone_code": "+44-1624",
+    "native": "Isle of Man"
+  },
+  {
+    "name": "Marshall Islands",
+    "area_code": "MH",
+    "phone_code": "+692",
+    "native": "M̧ajeļ"
+  },
+  {
+    "name": "Martinique",
+    "area_code": "MQ",
+    "phone_code": "+596",
+    "native": "Martinique"
+  },
+  {
+    "name": "Mauritania",
+    "area_code": "MR",
+    "phone_code": "+222",
+    "native": "موريتانيا"
+  },
+  {
+    "name": "Mauritius",
+    "area_code": "MU",
+    "phone_code": "+230",
+    "native": "Maurice"
+  },
+  {
+    "name": "Mayotte",
+    "area_code": "YT",
+    "phone_code": "+262",
+    "native": "Mayotte"
+  },
+  {
+    "name": "Mexico",
+    "area_code": "MX",
+    "phone_code": "+52",
+    "native": "México"
+  },
+  {
+    "name": "Micronesia",
+    "area_code": "FM",
+    "phone_code": "+691",
+    "native": "Micronesia"
+  },
+  {
+    "name": "Moldova",
+    "area_code": "MD",
+    "phone_code": "+373",
+    "native": "Moldova"
+  },
+  {
+    "name": "Monaco",
+    "area_code": "MC",
+    "phone_code": "+377",
+    "native": "Monaco"
+  },
+  {
+    "name": "Mongolia",
+    "area_code": "MN",
+    "phone_code": "+976",
+    "native": "Монгол улс"
+  },
+  {
+    "name": "Montenegro",
+    "area_code": "ME",
+    "phone_code": "+382",
+    "native": "Црна Гора"
+  },
+  {
+    "name": "Montserrat",
+    "area_code": "MS",
+    "phone_code": "+1-664",
+    "native": "Montserrat"
+  },
+  {
+    "name": "Morocco",
+    "area_code": "MA",
+    "phone_code": "+212",
+    "native": "المغرب"
+  },
+  {
+    "name": "Mozambique",
+    "area_code": "MZ",
+    "phone_code": "+258",
+    "native": "Moçambique"
+  },
+  {
+    "name": "Myanmar",
+    "area_code": "MM",
+    "phone_code": "+95",
+    "native": "မြန်မာ"
+  },
+  {
+    "name": "Namibia",
+    "area_code": "NA",
+    "phone_code": "+264",
+    "native": "Namibia"
+  },
+  {
+    "name": "Nauru",
+    "area_code": "NR",
+    "phone_code": "+674",
+    "native": "Nauru"
+  },
+  { "name": "Nepal", "area_code": "NP", "phone_code": "+977", "native": "नपल" },
+  {
+    "name": "Netherlands",
+    "area_code": "NL",
+    "phone_code": "+31",
+    "native": "Nederland"
+  },
+  {
+    "name": "New Caledonia",
+    "area_code": "NC",
+    "phone_code": "+687",
+    "native": "Nouvelle-Calédonie"
+  },
+  {
+    "name": "New Zealand",
+    "area_code": "NZ",
+    "phone_code": "+64",
+    "native": "New Zealand"
+  },
+  {
+    "name": "Nicaragua",
+    "area_code": "NI",
+    "phone_code": "+505",
+    "native": "Nicaragua"
+  },
+  {
+    "name": "Niger",
+    "area_code": "NE",
+    "phone_code": "+227",
+    "native": "Niger"
+  },
+  {
+    "name": "Nigeria",
+    "area_code": "NG",
+    "phone_code": "+234",
+    "native": "Nigeria"
+  },
+  { "name": "Niue", "area_code": "NU", "phone_code": "+683", "native": "Niuē" },
+  {
+    "name": "Norfolk Island",
+    "area_code": "NF",
+    "phone_code": "+672",
+    "native": "Norfolk Island"
+  },
+  {
+    "name": "North Korea",
+    "area_code": "KP",
+    "phone_code": "+850",
+    "native": "북한"
+  },
+  {
+    "name": "North Macedonia",
+    "area_code": "MK",
+    "phone_code": "+389",
+    "native": "Северна Македонија"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "area_code": "MP",
+    "phone_code": "+1-670",
+    "native": "Northern Mariana Islands"
+  },
+  {
+    "name": "Norway",
+    "area_code": "NO",
+    "phone_code": "+47",
+    "native": "Norge"
+  },
+  { "name": "Oman", "area_code": "OM", "phone_code": "+968", "native": "عمان" },
+  {
+    "name": "Pakistan",
+    "area_code": "PK",
+    "phone_code": "+92",
+    "native": "Pakistan"
+  },
+  {
+    "name": "Palau",
+    "area_code": "PW",
+    "phone_code": "+680",
+    "native": "Palau"
+  },
+  {
+    "name": "Palestinian Territory Occupied",
+    "area_code": "PS",
+    "phone_code": "+970",
+    "native": "فلسطين"
+  },
+  {
+    "name": "Panama",
+    "area_code": "PA",
+    "phone_code": "+507",
+    "native": "Panamá"
+  },
+  {
+    "name": "Papua new Guinea",
+    "area_code": "PG",
+    "phone_code": "+675",
+    "native": "Papua Niugini"
+  },
+  {
+    "name": "Paraguay",
+    "area_code": "PY",
+    "phone_code": "+595",
+    "native": "Paraguay"
+  },
+  { "name": "Peru", "area_code": "PE", "phone_code": "+51", "native": "Perú" },
+  {
+    "name": "Philippines",
+    "area_code": "PH",
+    "phone_code": "+63",
+    "native": "Pilipinas"
+  },
+  {
+    "name": "Pitcairn Island",
+    "area_code": "PN",
+    "phone_code": "+870",
+    "native": "Pitcairn Islands"
+  },
+  {
+    "name": "Poland",
+    "area_code": "PL",
+    "phone_code": "+48",
+    "native": "Polska"
+  },
+  {
+    "name": "Portugal",
+    "area_code": "PT",
+    "phone_code": "+351",
+    "native": "Portugal"
+  },
+  {
+    "name": "Puerto Rico",
+    "area_code": "PR",
+    "phone_code": "+1-787 and 1-939",
+    "native": "Puerto Rico"
+  },
+  { "name": "Qatar", "area_code": "QA", "phone_code": "+974", "native": "قطر" },
+  {
+    "name": "Reunion",
+    "area_code": "RE",
+    "phone_code": "+262",
+    "native": "La Réunion"
+  },
+  {
+    "name": "Romania",
+    "area_code": "RO",
+    "phone_code": "+40",
+    "native": "România"
+  },
+  {
+    "name": "Russia",
+    "area_code": "RU",
+    "phone_code": "+7",
+    "native": "Россия"
+  },
+  {
+    "name": "Rwanda",
+    "area_code": "RW",
+    "phone_code": "+250",
+    "native": "Rwanda"
+  },
+  {
+    "name": "Saint Helena",
+    "area_code": "SH",
+    "phone_code": "+290",
+    "native": "Saint Helena"
+  },
+  {
+    "name": "Saint Kitts And Nevis",
+    "area_code": "KN",
+    "phone_code": "+1-869",
+    "native": "Saint Kitts and Nevis"
+  },
+  {
+    "name": "Saint Lucia",
+    "area_code": "LC",
+    "phone_code": "+1-758",
+    "native": "Saint Lucia"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "area_code": "PM",
+    "phone_code": "+508",
+    "native": "Saint-Pierre-et-Miquelon"
+  },
+  {
+    "name": "Saint Vincent And The Grenadines",
+    "area_code": "VC",
+    "phone_code": "+1-784",
+    "native": "Saint Vincent and the Grenadines"
+  },
+  {
+    "name": "Saint-Barthelemy",
+    "area_code": "BL",
+    "phone_code": "+590",
+    "native": "Saint-Barthélemy"
+  },
+  {
+    "name": "Saint-Martin (French part)",
+    "area_code": "MF",
+    "phone_code": "+590",
+    "native": "Saint-Martin"
+  },
+  {
+    "name": "Samoa",
+    "area_code": "WS",
+    "phone_code": "+685",
+    "native": "Samoa"
+  },
+  {
+    "name": "San Marino",
+    "area_code": "SM",
+    "phone_code": "+378",
+    "native": "San Marino"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "area_code": "ST",
+    "phone_code": "+239",
+    "native": "São Tomé e Príncipe"
+  },
+  {
+    "name": "Saudi Arabia",
+    "area_code": "SA",
+    "phone_code": "+966",
+    "native": "المملكة العربية السعودية"
+  },
+  {
+    "name": "Senegal",
+    "area_code": "SN",
+    "phone_code": "+221",
+    "native": "Sénégal"
+  },
+  {
+    "name": "Serbia",
+    "area_code": "RS",
+    "phone_code": "+381",
+    "native": "Србија"
+  },
+  {
+    "name": "Seychelles",
+    "area_code": "SC",
+    "phone_code": "+248",
+    "native": "Seychelles"
+  },
+  {
+    "name": "Sierra Leone",
+    "area_code": "SL",
+    "phone_code": "+232",
+    "native": "Sierra Leone"
+  },
+  {
+    "name": "Singapore",
+    "area_code": "SG",
+    "phone_code": "+65",
+    "native": "Singapore"
+  },
+  {
+    "name": "Sint Maarten (Dutch part)",
+    "area_code": "SX",
+    "phone_code": "+1721",
+    "native": "Sint Maarten"
+  },
+  {
+    "name": "Slovakia",
+    "area_code": "SK",
+    "phone_code": "+421",
+    "native": "Slovensko"
+  },
+  {
+    "name": "Slovenia",
+    "area_code": "SI",
+    "phone_code": "+386",
+    "native": "Slovenija"
+  },
+  {
+    "name": "Solomon Islands",
+    "area_code": "SB",
+    "phone_code": "+677",
+    "native": "Solomon Islands"
+  },
+  {
+    "name": "Somalia",
+    "area_code": "SO",
+    "phone_code": "+252",
+    "native": "Soomaaliya"
+  },
+  {
+    "name": "South Africa",
+    "area_code": "ZA",
+    "phone_code": "+27",
+    "native": "South Africa"
+  },
+  {
+    "name": "South Georgia",
+    "area_code": "GS",
+    "phone_code": "+500",
+    "native": "South Georgia"
+  },
+  {
+    "name": "South Korea",
+    "area_code": "KR",
+    "phone_code": "+82",
+    "native": "대한민국"
+  },
+  {
+    "name": "South Sudan",
+    "area_code": "SS",
+    "phone_code": "+211",
+    "native": "South Sudan"
+  },
+  {
+    "name": "Spain",
+    "area_code": "ES",
+    "phone_code": "+34",
+    "native": "España"
+  },
+  {
+    "name": "Sri Lanka",
+    "area_code": "LK",
+    "phone_code": "+94",
+    "native": "śrī laṃkāva"
+  },
+  {
+    "name": "Sudan",
+    "area_code": "SD",
+    "phone_code": "+249",
+    "native": "السودان"
+  },
+  {
+    "name": "Suriname",
+    "area_code": "SR",
+    "phone_code": "+597",
+    "native": "Suriname"
+  },
+  {
+    "name": "Svalbard And Jan Mayen Islands",
+    "area_code": "SJ",
+    "phone_code": "+47",
+    "native": "Svalbard og Jan Mayen"
+  },
+  {
+    "name": "Swaziland",
+    "area_code": "SZ",
+    "phone_code": "+268",
+    "native": "Swaziland"
+  },
+  {
+    "name": "Sweden",
+    "area_code": "SE",
+    "phone_code": "+46",
+    "native": "Sverige"
+  },
+  {
+    "name": "Switzerland",
+    "area_code": "CH",
+    "phone_code": "+41",
+    "native": "Schweiz"
+  },
+  {
+    "name": "Syria",
+    "area_code": "SY",
+    "phone_code": "+963",
+    "native": "سوريا"
+  },
+  {
+    "name": "Taiwan",
+    "area_code": "TW",
+    "phone_code": "+886",
+    "native": "中國臺灣"
+  },
+  {
+    "name": "Tajikistan",
+    "area_code": "TJ",
+    "phone_code": "+992",
+    "native": "Тоҷикистон"
+  },
+  {
+    "name": "Tanzania",
+    "area_code": "TZ",
+    "phone_code": "+255",
+    "native": "Tanzania"
+  },
+  {
+    "name": "Thailand",
+    "area_code": "TH",
+    "phone_code": "+66",
+    "native": "ประเทศไทย"
+  },
+  {
+    "name": "The Bahamas",
+    "area_code": "BS",
+    "phone_code": "+1-242",
+    "native": "Bahamas"
+  },
+  { "name": "Togo", "area_code": "TG", "phone_code": "+228", "native": "Togo" },
+  {
+    "name": "Tokelau",
+    "area_code": "TK",
+    "phone_code": "+690",
+    "native": "Tokelau"
+  },
+  {
+    "name": "Tonga",
+    "area_code": "TO",
+    "phone_code": "+676",
+    "native": "Tonga"
+  },
+  {
+    "name": "Trinidad And Tobago",
+    "area_code": "TT",
+    "phone_code": "+1-868",
+    "native": "Trinidad and Tobago"
+  },
+  {
+    "name": "Tunisia",
+    "area_code": "TN",
+    "phone_code": "+216",
+    "native": "تونس"
+  },
+  {
+    "name": "Turkey",
+    "area_code": "TR",
+    "phone_code": "+90",
+    "native": "Türkiye"
+  },
+  {
+    "name": "Turkmenistan",
+    "area_code": "TM",
+    "phone_code": "+993",
+    "native": "Türkmenistan"
+  },
+  {
+    "name": "Turks And Caicos Islands",
+    "area_code": "TC",
+    "phone_code": "+1-649",
+    "native": "Turks and Caicos Islands"
+  },
+  {
+    "name": "Tuvalu",
+    "area_code": "TV",
+    "phone_code": "+688",
+    "native": "Tuvalu"
+  },
+  {
+    "name": "Uganda",
+    "area_code": "UG",
+    "phone_code": "+256",
+    "native": "Uganda"
+  },
+  {
+    "name": "Ukraine",
+    "area_code": "UA",
+    "phone_code": "+380",
+    "native": "Україна"
+  },
+  {
+    "name": "United Arab Emirates",
+    "area_code": "AE",
+    "phone_code": "+971",
+    "native": "دولة الإمارات العربية المتحدة"
+  },
+  {
+    "name": "United Kingdom",
+    "area_code": "GB",
+    "phone_code": "+44",
+    "native": "United Kingdom"
+  },
+  {
+    "name": "United States",
+    "area_code": "US",
+    "phone_code": "+1",
+    "native": "United States"
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "area_code": "UM",
+    "phone_code": "+1",
+    "native": "United States Minor Outlying Islands"
+  },
+  {
+    "name": "Uruguay",
+    "area_code": "UY",
+    "phone_code": "+598",
+    "native": "Uruguay"
+  },
+  {
+    "name": "Uzbekistan",
+    "area_code": "UZ",
+    "phone_code": "+998",
+    "native": "O‘zbekiston"
+  },
+  {
+    "name": "Vanuatu",
+    "area_code": "VU",
+    "phone_code": "+678",
+    "native": "Vanuatu"
+  },
+  {
+    "name": "Vatican City State (Holy See)",
+    "area_code": "VA",
+    "phone_code": "+379",
+    "native": "Vaticano"
+  },
+  {
+    "name": "Venezuela",
+    "area_code": "VE",
+    "phone_code": "+58",
+    "native": "Venezuela"
+  },
+  {
+    "name": "Vietnam",
+    "area_code": "VN",
+    "phone_code": "+84",
+    "native": "Việt Nam"
+  },
+  {
+    "name": "Virgin Islands (British)",
+    "area_code": "VG",
+    "phone_code": "+1-284",
+    "native": "British Virgin Islands"
+  },
+  {
+    "name": "Virgin Islands (US)",
+    "area_code": "VI",
+    "phone_code": "+1-340",
+    "native": "United States Virgin Islands"
+  },
+  {
+    "name": "Wallis And Futuna Islands",
+    "area_code": "WF",
+    "phone_code": "+681",
+    "native": "Wallis et Futuna"
+  },
+  {
+    "name": "Western Sahara",
+    "area_code": "EH",
+    "phone_code": "+212",
+    "native": "الصحراء الغربية"
+  },
+  {
+    "name": "Yemen",
+    "area_code": "YE",
+    "phone_code": "+967",
+    "native": "اليَمَن"
+  },
+  {
+    "name": "Zambia",
+    "area_code": "ZM",
+    "phone_code": "+260",
+    "native": "Zambia"
+  },
+  {
+    "name": "Zimbabwe",
+    "area_code": "ZW",
+    "phone_code": "+263",
+    "native": "Zimbabwe"
+  }
+]
