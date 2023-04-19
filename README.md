@@ -1,6 +1,6 @@
 # international_telephone_area_code_list
 
-[中文](##中文)
+中文下滑查看
 
 The **international_telephone_area_code_list.json** file contains the original name and area code of 252 countries or regions. The content comes from the [countries.json](https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/countries.json) file in the [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) .
 
