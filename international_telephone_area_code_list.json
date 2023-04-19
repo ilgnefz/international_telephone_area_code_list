@@ -369,7 +369,13 @@
   {
     "name": "Dominican Republic",
     "area_code": "DO",
-    "phone_code": "+1-809 and 1-829",
+    "phone_code": "+1-809",
+    "native": "República Dominicana"
+  },
+  {
+    "name": "Dominican Republic",
+    "area_code": "DO",
+    "phone_code": "+1-829",
     "native": "República Dominicana"
   },
   {
@@ -1014,7 +1020,13 @@
   {
     "name": "Puerto Rico",
     "area_code": "PR",
-    "phone_code": "+1-787 and 1-939",
+    "phone_code": "+1-787",
+    "native": "Puerto Rico"
+  },
+  {
+    "name": "Puerto Rico",
+    "area_code": "PR",
+    "phone_code": "+1-939",
     "native": "Puerto Rico"
   },
   { "name": "Qatar", "area_code": "QA", "phone_code": "+974", "native": "قطر" },
