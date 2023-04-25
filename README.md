@@ -1,10 +1,10 @@
 # international_telephone_area_code_list
 
-中文下滑查看
+[中文](##中文)
 
 The **international_telephone_area_code_list.json** file contains the original name and area code of 252 countries or regions. The content comes from the [countries.json](https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/countries.json) file in the [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) .
 
- I only keep the English name of the country or region, the country or region code, the telephone area code of the country or region, and the original name (written in the language of that area) that I need.
+I only keep the English name of the country or region, the country or region code, the country or region telephone area code, the original name (written in the language of the region) and the translation.
 
 The telephone area code of the country or region contains `-`, with or without it does not affect the use (for example, `+35818` and `+358-18` are both correct representations of its telephone area code and can be used interchangeably).
 
@@ -53,7 +53,7 @@ Pass your `json` file to the above method.
 
 ## 中文
 
-**international_telephone_area_code_list.json** 文件包含了 252 个国家或地区的原始名称及电话区号，这些内容来源于仓库 [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) 中的 [countries.json](https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/countries.json) 文件。我只保留了国家或地区英文名称、国家或地区区号、国家或地区电话区号、原始名称（以该地区语言书写）我需要用到的地方。
+**international_telephone_area_code_list.json** 文件包含了 252 个国家或地区的原始名称及电话区号，这些内容来源于仓库 [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) 中的 [countries.json](https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/countries.json) 文件。我只保留了国家或地区英文名称、国家或地区区号、国家或地区电话区号、原始名称（以该地区语言书写）和翻译。
 
 国家或地区电话区号中包含`-`，去掉和不去掉都不影响使用（比如 **+35818** 和 **+358-18** 都是其电话区号的正确表示方法,可以通用。）。
 
@@ -76,6 +76,7 @@ void modifyCountriesJson(String jsonPath) {
         key != 'name' &&
         key != 'iso2' &&
         key != 'phone_code' &&
+        key != 'translations' &&
         key != 'native');
   }
 
