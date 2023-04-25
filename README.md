@@ -24,6 +24,7 @@ void modifyCountriesJson(String jsonPath) {
    key != 'name' && 
    key != 'iso2' && 
    key != 'phone_code' &&
+   key != 'translations' &&
    key != 'native');
  }
  
